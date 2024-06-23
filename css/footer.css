@@ -1,6 +1,6 @@
 footer{
     background-color:#F5F5F7;
-    height: 620px;
+    height: 670px;
     font-weight: 400;
     padding-right: 10px;
 }
@@ -56,6 +56,42 @@ footer{
     line-height: 16px;
     padding-left: 20px;
     color: gray;
-
 }
+
+.copyright{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.copyright p {
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 16px;
+    padding-left: 20px;
+    color: gray;
+}
+
+.copyright a {
+   text-decoration: none;
+   color: gray;
+}
+
+.policy ul{
+    display: flex;
+    justify-content: flex-start;
+    margin-left: -16px;
+}
+
+.policy ul li{
+   list-style: none;
+   padding: 5px;
+   font-size: 13px;
+   font-weight: 300;
+   line-height: 16px;
+   color: gray;
+}
+
+
+
 

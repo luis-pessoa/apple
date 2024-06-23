@@ -1,12 +1,6 @@
-.products-macbook-ultra{
-    background-color: #ffffff;
-    display: flex;
-    flex-direction: row;
-}
-
-.macbook{
-    margin: 5px 0 15px 15px;
-    background-image: url("https://www.apple.com/v/home/bn/images/promos/macbook-air-m3/promo_macbook_air_m3__e43jegok3wuq_large.jpg");
+.ultra{
+    margin: 5px 0 15px 0px;
+    background-image: url("https://www.apple.com/v/home/bn/images/promos/apple-watch-ultra-2/promo_apple_watch_ultra2_order__dyxqj5ia98om_large.jpg");
     background-size: cover;
     height:580px;
     background-position-x: center;
@@ -16,18 +10,13 @@
     margin-right: 15px;
 }
 
-.macbook-text h1{
-    font-size: 44px;
-}
-
-.macbook-text p{
+.ultra-text p{
     font-size:21px;
     margin-top:0px;
     margin-bottom: 10px;
 }
 
-
-.macbook-text{
+.ultra-text{
     margin-top: 58px;
     text-align: center;
 }
@@ -47,7 +36,7 @@
     margin-top:0px;
 }
 
-.btn-more-macbook{
+.btn-more-ultra{
     background: #1D1D1F;
     color: #fff;
     margin-right: 10px;
@@ -58,7 +47,7 @@
 }
 
 
-.btn-buy-macbook{
+.btn-buy-ultra{
     background:  rgba(0, 0, 0, 0);
     color: #1D1D1F;
     border-color: #1D1D1F;
@@ -67,7 +56,7 @@
     width:100px;
 }
 
-.btn-buy-macbook:hover{
+.btn-buy-ultra:hover{
     color:#F5F5F7; 
     background-color:#1D1D1F;
     border-color: #1D1D1F;;
