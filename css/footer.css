@@ -1,0 +1,61 @@
+footer{
+    background-color:#F5F5F7;
+    height: 620px;
+    font-weight: 400;
+    padding-right: 10px;
+}
+
+
+.container-menu{
+    display: flex;
+    flex-direction: column;
+    max-width: 990px;
+}
+
+.container-menu-itens{
+    display: flex;
+    flex-direction: row;
+}
+
+
+.menu p{
+    font-size: 12px;
+    color: gray;
+}
+
+.menu li{
+    list-style: none;
+}
+
+
+.menu li:nth-child(1){
+    font-size: 13px;
+    font-weight: 400;
+}
+
+
+.menu a{
+    font-size:12px;
+    color: gray;
+    text-decoration:none ;
+}
+
+.assinatura p{
+    font-size: 12px;
+    line-height: 16px;
+    padding: 20px;
+}
+
+.container-info{
+     margin-top:65px;
+}
+
+.container-info p{
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 16px;
+    padding-left: 20px;
+    color: gray;
+
+}
+

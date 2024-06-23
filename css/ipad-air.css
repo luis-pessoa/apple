@@ -1,0 +1,58 @@
+.ipad-air{
+    margin: 15px 15px 15px 0px;
+    background-image: url("https://www.apple.com/br/home/promos/ipad-air/images/promo_ipadair__cu1bnxi7uuwm_large.jpg");
+    background-size: cover;
+    height:580px;
+    background-position-x: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-right: 15px;
+}
+
+.ipadair-text{
+    margin-top: 58px;
+    text-align: center;
+}
+
+.txt-size {
+    font-size:21px;
+    color: #1D1D1F;
+    padding: 0px;
+    margin-top: 14px;
+    margin-bottom: 0px;
+}
+
+.txt-already {
+    font-size:21px;
+    color: #1D1D1F;
+    padding: 0px;
+    margin-top:0px;
+}
+
+.btn-more-ipadair{
+    background: #1D1D1F;
+    color: #fff;
+    margin-right: 10px;
+    border-color: rgba(0, 0, 0, 0);
+    border-radius: 100px;
+    padding: 3px;
+    width:110px;
+}
+
+
+.btn-buy-ipadair{
+    background:  rgba(0, 0, 0, 0);
+    color: #1D1D1F;
+    border-color: #1D1D1F;
+    border-radius: 100px;
+    padding: 3px;
+    width:100px;
+}
+
+.btn-buy-ipadair:hover{
+    color:#F5F5F7; 
+    background-color:#1D1D1F;
+    border-color: #1D1D1F;;
+}
+

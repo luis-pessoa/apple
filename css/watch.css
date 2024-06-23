@@ -1,0 +1,53 @@
+.products-watch-ipadair{
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+}
+
+.watch{
+    margin: 15px 0px 15px 15px;
+    background-image: url("https://www.apple.com/br/home/promos/apple-watch-series-9/images/promo_apple_watch_series_9_order__b3u85rm9zf6u_large.jpg");
+    background-size: cover;
+    height:580px;
+    background-position-x: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-right: 15px;
+}
+
+.wath-text{
+    margin-top: 58px;
+    text-align: center;
+}
+.wath-text p {
+    font-size:21px;
+    color: #F5F5F7;
+    padding: 5px;
+}
+
+.btn-more-watch{
+    background: #0071e3;
+    color: #fff;
+    margin-right: 10px;
+    border-color: rgba(0, 0, 0, 0);
+    border-radius: 100px;
+    padding: 5px;
+    width:110px;
+}
+
+
+.btn-buy-watch{
+    background:  rgba(0, 0, 0, 0);
+    color: #0071e3;
+    border-color:  #0071e3;
+    border-radius: 100px;
+    padding: 5px;
+    width:100px;
+}
+
+.btn-buy-watch:hover{
+    color:#F5F5F7; 
+    background-color:#0071e3;
+    border-color: #0071e3;;
+}

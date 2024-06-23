@@ -1,0 +1,41 @@
+.ipad-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.txt-main-ipad{
+    font-size: 56px;
+    color:#F5F5F7;
+    line-height: 60px;
+    font-weight:550;
+    margin-top: 76px;
+}
+
+.txt-secundary-ipad{
+    font-size:28px;
+    color:#F5F5F7;
+    line-height: 26px;
+}
+
+.ipad-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-buy:hover{
+    color:#F5F5F7; 
+    background-color:#0071e3;
+    border-color: #0071e3;;
+}
+
+
+.ipad{
+    background-image: url(https://www.apple.com/v/home/bn/images/heroes/ipad-pro/hero_ipadpro__bpt7a9d8sh42_large.jpg);
+    background-size: cover;
+    height: 700px;
+    background-position-x: center;
+}
+

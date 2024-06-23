@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'SF Pro Display', sans-serif;
+}
+
+header{
+    background-color: #181818;
+}
+
+.barra{
+   height:45px;    
+}
+
+.barra ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.barra li{
+    color:#D1D1D1;
+    list-style: none;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 1;
+    padding: 20px;
+}

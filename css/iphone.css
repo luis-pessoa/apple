@@ -1,0 +1,34 @@
+.iphone-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.txt-main-iphone{
+    font-size: 56px;
+    color: #000000;
+    line-height: 60px;
+    font-weight:550;
+    margin-top: 76px;
+}
+
+.txt-secundary-iphone{
+    font-size:28px;
+    color: #000000;
+    line-height: 26px;
+}
+
+
+.iphone-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.iphone{
+    background-image: url(https://www.apple.com/v/home/bn/images/heroes/iphone-15/hero_iphone15_announce__uuemlcwczn6u_large.jpg);
+    background-size: cover;
+    height: 700px;
+    background-position-x: center;;
+}
